@@ -21,7 +21,8 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4).
 
 
-[![Watch the video](https://cdn.loom.com/sessions/thumbnails/20b449c7acf3482eaddf9696488ae83a-with-play.gif)](https://www.loom.com/share/20b449c7acf3482eaddf9696488ae83a)
+[![Watch the video](https://cdn.loom.com/sessions/thumbnails/20b449c7acf3482eaddf9696488ae83a-8cecf0e8f711b908-full-play.gif)](https://www.loom.com/share/20b449c7acf3482eaddf9696488ae83a)
+
 
 
 ## App Brainstorming (Step 4)

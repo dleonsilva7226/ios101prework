@@ -65,8 +65,7 @@ Commenting and reactions
 
 Story and reel interaction
 
-App Idea: 🎵 TunedIn
-Tagline: Where your music taste finds its voice.
+App Idea: TunedIn
 
 TunedIn connects with your Spotify account to let you write short reviews or in-depth takes on songs, albums, and artists. It transforms your music listening into a social experience, offering a real-time feed of reviews from friends and the broader community. The app recommends music based on what you’ve reviewed and tagged with moods, and encourages participation through gamified elements like badges, weekly themes, and review challenges. You can also explore your listening stats and see which of your takes are most agreed with—or controversial.
 

@@ -2,7 +2,7 @@
 
 Submitted by: **Daniel Leon Silva**
 
-**ColorChanger** is an app that... [TODO]
+**ColorChanger** is an app that changes the color of the app background when clicking a button that is labeled *Change*.
 
 
 Time spent: **2** hours spent in total

@@ -24,6 +24,54 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## Notes
 
+Favorite Apps & Features
+1. Spotify
+
+Real-time listening history
+
+Personalized recommendations
+
+Sleek, minimal design
+
+2. Letterboxd
+
+Social reviews for movies
+
+Feed of friends' activity
+
+Gamified stats and personalized watchlists
+
+3. Notion
+
+Customizable workspace
+
+Community templates
+
+Sync across devices
+
+4. Goodreads
+
+Track books read and reviews
+
+Community ratings and comments
+
+Reading goals and progress tracking
+
+5. Instagram
+
+Smooth media sharing
+
+Commenting and reactions
+
+Story and reel interaction
+
+App Idea: 🎵 TunedIn
+Tagline: Where your music taste finds its voice.
+
+TunedIn connects with your Spotify account to let you write short reviews or in-depth takes on songs, albums, and artists. It transforms your music listening into a social experience, offering a real-time feed of reviews from friends and the broader community. The app recommends music based on what you’ve reviewed and tagged with moods, and encourages participation through gamified elements like badges, weekly themes, and review challenges. You can also explore your listening stats and see which of your takes are most agreed with—or controversial.
+
+TunedIn is for music nerds, playlist curators, and anyone who wants more than just "likes"—it’s for those who want real conversations around the music that moves them.
+
 Describe any challenges encountered while building the app.
 
 - Figuring out how the XCode environment works
